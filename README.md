@@ -94,6 +94,14 @@ Flask-based system recommending tourist destinations and hotels using content-ba
   🐍 [**Kaggle - Python**](https://www.kaggle.com/learn/certification/helliprajapati/python)  
   *Hands-on certification covering Python basics, functions, data structures, and libraries like pandas & matplotlib.*
 
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)  
+  🐼 [**Kaggle - Pandas**](https://www.kaggle.com/learn/certification/helliprajapati/pandas)  
+  *Worked with data manipulation, indexing, filtering, grouping, merging, and reshaping using Pandas.*
+
+- ![Machine Learning](https://img.shields.io/badge/-Intro%20to%20ML-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)  
+  🤖 [**Kaggle - Intro to Machine Learning**](https://www.kaggle.com/learn/certification/helliprajapati/intro-to-machine-learning)  
+  *Learned ML basics including decision trees, model validation, overfitting/underfitting, and building predictive models.*  
+
 - ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square)  
   💻 [**HackerRank - SQL (Intermediate)**](https://www.hackerrank.com/certificates/iframe/d850dc8d1f4d)  
   *Tested skills in joins, aggregations, subqueries, and query performance.*
