@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%"/>
+  <img src="![Image](https://github.com/user-attachments/assets/7184a2aa-f1c8-4b90-9a1a-c90b11e3d0f0)" width="100%"/>
   <h1>Hi there! I'm <span style="color:#00bcd4">Helly Prajapati</span> 👋</h1>
   <h3>Aspiring Data Scientist | AI & ML Explorer | SQL Developer 📊</h3>
 </div>
