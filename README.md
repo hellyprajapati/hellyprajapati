@@ -1,134 +1,129 @@
-## Hi there 👋
-#  I'm Helly Prajapati!
-
- 👩‍💻 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast | 📊 SQL Developer 
-
----
-
-## 🚀 About Me
-
-🌱 a passionate tech enthusiast and aspiring **Data Professional** with a strong foundation in **B.Sc IT (Data Science)** from *Ganpat University*.
-
-🔍 I love uncovering stories hidden in data — whether it's building machine learning models, writing optimized SQL queries, or designing dashboards that speak louder than words.
-
-💡 My goal is to solve real-world problems using clean code, smart analytics, and impactful visualizations.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%"/>
+  <h1>Hi there! I'm <span style="color:#00bcd4">Helly Prajapati</span> 👋</h1>
+  <h3>Aspiring Data Scientist | AI & ML Explorer | SQL Developer 📊</h3>
+</div>
 
 ---
 
-🔭 Currently building end-to-end projects using real datasets  
-🌱 Always learning something new in the world of data and AI  
-  
----
-## 🚀 Skills
-
-### 👩‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-5382a1?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🤖 Machine Learning & AI
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
-### 🧰 Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Web & Deployment
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-### 🛠️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFA6&center=true&vCenter=true&width=700&lines=🚀+Data+Science+Graduate+%7C+AI+Developer+in+Making;💻+Skilled+in+Python%2C+SQL%2C+ML%2C+and+BI+Tools!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🎯 Career Snapshot
 
-### 🔹 [Laptop Price Predictor](https://github.com/hellyprajapati/Laptop-Price-Predictor)
-Predict laptop prices based on features using regression models. Achieved **89% R² score** with Random Forest and deployed using Streamlit.
-
-### 🔹 [Travel Recommendation System](https://github.com/hellyprajapati/Travel-Recommendation-System)
-Flask-based system recommending tourist destinations and hotels using content-based and rule-based filtering. Includes EDA and deployment.
-
-### 🔹 [Music Store SQL Analysis](https://github.com/hellyprajapati/music_store_analysis_sql)
-15+ advanced SQL queries to derive insights from customer purchases, invoices, and genres using PostgreSQL.
+🌱 B.Sc IT (Data Science) graduate passionate about solving real-world problems using **data and AI**.  
+🚀 Experienced in building ML models, SQL queries, and dashboards that drive insights.  
+📌 Current focus: **AI-powered analytics, recommender systems, and ML deployment.**
 
 ---
 
-## 🧠 Currently Learning
+## 🛠️ Tech Stack & Tools
 
-- 📘 Advanced SQL Optimization
-- 📈 Time Series Forecasting
-- 🌐 APIs and Web Scraping for Data Collection
+### 🧑‍💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+##
+
+### 📊 Data Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+##
+
+### 🧰 Dev Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+</p>
+
+##
+
+### 🤖 ML / AI Platforms
+<p align="center">
+<marquee behavior="alternate" scrollamount="6" direction="left" width="100%">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black"/>
+</marquee>
+</p>
 
 ---
 
-## 💬 Let's Connect!
+## 📈 GitHub Analytics
 
-> 📢 I love connecting with fellow data enthusiasts, developers, and learners!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hellyprajapati&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyprajapati&layout=compact&theme=chartreuse-dark&hide_border=true" width="49%">
+</p>
 
-- 📧 **Email**: [hellyprajapati212@gmail.com](mailto:hellyprajapati212@gmail.com)  
-- 💼 **LinkedIn** [![LinkedIn](https://img.shields.io/badge/-Helly%20Prajapati-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helly-prajapati)  
-- 📊 **Kaggle** [![Kaggle](https://img.shields.io/badge/-@helliprajapati-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/helliprajapati)  
-- 🌐 **Portfolio**: _Coming soon... Stay tuned!_ 🚀  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hellyprajapati&theme=highcontrast&hide_border=true" width="100%">
+</p>
 
 ---
 
 ## 🏆 Certifications
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-  🐍 [**Kaggle - Python**](https://www.kaggle.com/learn/certification/helliprajapati/python)  
-  *Hands-on certification covering Python basics, functions, data structures, and libraries like pandas & matplotlib.*
+- **Python (Kaggle)** – *Aug 2025*  
+  [📜 View Certificate](https://www.kaggle.com/learn/certification/helliprajapati/python)
 
-- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)  
-  🐼 [**Kaggle - Pandas**](https://www.kaggle.com/learn/certification/helliprajapati/pandas)  
-  *Worked with data manipulation, indexing, filtering, grouping, merging, and reshaping using Pandas.*
+- **SQL (Intermediate) – HackerRank** – *Aug 2025*  
+  [📜 View Certificate](https://www.hackerrank.com/certificates/iframe/d850dc8d1f4d)
 
-- ![Machine Learning](https://img.shields.io/badge/-Intro%20to%20ML-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)  
-  🤖 [**Kaggle - Intro to Machine Learning**](https://www.kaggle.com/learn/certification/helliprajapati/intro-to-machine-learning)  
-  *Learned ML basics including decision trees, model validation, overfitting/underfitting, and building predictive models.*  
+- **GenAI Powered Data Analytics Job Simulation – Tata iQ** – *Jun 2025*  
+  [📜 View Certificate](https://drive.google.com/file/d/1_CZIZ61MRHB8MZ7gdafCtHbbkDWy8pD_/view)
 
-- ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square)  
-  💻 [**HackerRank - SQL (Intermediate)**](https://www.hackerrank.com/certificates/iframe/d850dc8d1f4d)  
-  *Tested skills in joins, aggregations, subqueries, and query performance.*
-
-- ![AI](https://img.shields.io/badge/-GenAI--Powered--Analytics-blueviolet?style=flat-square&logo=google)  
-  🤖 [**GenAI-Powered Data Analytics Job Simulation**](https://drive.google.com/file/d/1_CZIZ61MRHB8MZ7gdafCtHbbkDWy8pD_/view?usp=sharing)  
-  *Simulated AI-powered credit risk analysis using EDA, classification models, and data storytelling.*
-
-- ![Deloitte](https://img.shields.io/badge/-Deloitte--Simulation-darkgreen?style=flat-square&logo=deloitte)  
-  📊 [**Deloitte Australia Data Analytics Virtual Experience**](https://drive.google.com/file/d/1TGBCxpskc2xq_LkUxtuSmgTo1X4nhII0/view?usp=sharing)  
-  *Applied forensic data analysis, used Excel for classification, and built dashboards with Tableau.*
+- **Deloitte Australia Data Analytics Job Simulation** – *Feb 2025*  
+  [📜 View Certificate](https://drive.google.com/file/d/1TGBCxpskc2xq_LkUxtuSmgTo1X4nhII0/view)
 
 ---
 
-⭐️ *“Learning never exhausts the mind.” – Leonardo da Vinci*
+## 🌐 Connect With Me
 
-<!--
-**hellyprajapati/hellyprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/helly-prajapati)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellyprajapati212@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hellyprajapati)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/helliprajapati)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning raw data into meaningful insights and real-world solutions."</i> 🧠📊
+</p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/retro.gif" width="100%"/>
+</div>
+
+### ⚡ Fun Fact  
+> _“I enjoy building ML models and deploying them into real-world apps!”_
+
+
+
+
+
