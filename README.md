@@ -1,16 +1,12 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7184a2aa-f1c8-4b90-9a1a-c90b11e3d0f0" width="100%"/>
+ 
   <h1>Hi there! I'm <span style="color:#00bcd4">Helly Prajapati</span> 👋</h1>
+   <img src="https://github.com/user-attachments/assets/7184a2aa-f1c8-4b90-9a1a-c90b11e3d0f0" width="100%"/>
   <h3>Aspiring Data Scientist | AI & ML Explorer | SQL Developer 📊</h3>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFA6&center=true&vCenter=true&width=700&lines=🚀+Data+Science+Graduate+%7C+AI+Developer+in+Making;💻+Skilled+in+Python%2C+SQL%2C+ML%2C+and+BI+Tools!" alt="Typing SVG" />
-</p>
-
----
 
 ## 🎯 Career Snapshot
 
