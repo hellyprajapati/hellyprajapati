@@ -78,16 +78,16 @@
 ## 🏆 Certifications
 
 - **Python (Kaggle)** – *Aug 2025*  
-  [📜 View Certificate](https://www.kaggle.com/learn/certification/helliprajapati/python)
+  [📜 Certificate](https://www.kaggle.com/learn/certification/helliprajapati/python)
 
 - **SQL (Intermediate) – HackerRank** – *Aug 2025*  
-  [📜 View Certificate](https://www.hackerrank.com/certificates/iframe/d850dc8d1f4d)
+  [📜 Certificate](https://www.hackerrank.com/certificates/iframe/d850dc8d1f4d)
 
 - **GenAI Powered Data Analytics Job Simulation – Tata iQ** – *Jun 2025*  
-  [📜 View Certificate](https://drive.google.com/file/d/1_CZIZ61MRHB8MZ7gdafCtHbbkDWy8pD_/view)
+  [📜 Certificate](https://drive.google.com/file/d/1_CZIZ61MRHB8MZ7gdafCtHbbkDWy8pD_/view)
 
 - **Deloitte Australia Data Analytics Job Simulation** – *Feb 2025*  
-  [📜 View Certificate](https://drive.google.com/file/d/1TGBCxpskc2xq_LkUxtuSmgTo1X4nhII0/view)
+  [📜 Certificate](https://drive.google.com/file/d/1TGBCxpskc2xq_LkUxtuSmgTo1X4nhII0/view)
 
 ---
 
@@ -101,23 +101,12 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</p>
-
----
-
-<p align="center">
   <i>"Turning raw data into meaningful insights and real-world solutions."</i> 🧠📊
 </p>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/retro.gif" width="100%"/>
-</div>
 
 ### ⚡ Fun Fact  
-> _“I enjoy building ML models and deploying them into real-world apps!”_
+> _“ I love to explore AI and also Data Engineering ! ”_
 
 
 
